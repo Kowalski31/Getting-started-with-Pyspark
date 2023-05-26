@@ -1,4 +1,6 @@
 # Getting started with Pyspark
+
+## tutorial 
 - create a spark session
 - read a csv file
 - get the schema of the dataframe
