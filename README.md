@@ -8,3 +8,7 @@
 - select columns
 - filter rows based on a condition (where)
 
+## CSC14118 - Introduction to Spark 19_21
+- load movied.json dataset
+- do some queries on the dataset
+- mining frequent itemsets and association rules
